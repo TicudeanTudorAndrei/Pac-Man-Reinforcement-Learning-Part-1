@@ -14,4 +14,7 @@ In **Project 3**, you work on building agents that learn to act optimally in Mar
 
 ## Notes
 
-This is my personal solution for learning/educational purposes (introduction to AI). It is based on the CS 188 Fall 2024 Project 3 specification.
+- This is my personal solution for learning/educational purposes (introduction to AI). It is based on the CS 188 Fall 2024 Project 3 specification
+- Please unzip the "pacman.rar" archive for "layouts" and "test_cases" folder by using the "Extract Here" button. The folder structure should look like this:
+
+![Folder_Struct](images/folder_struct.jpg)
