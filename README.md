@@ -1,4 +1,4 @@
-# CS 188 — Project 3: Reinforcement Learning: 
+# CS 188 — Project 3: Reinforcement Learning
 
 This repository contains my solution for **Project 3: Reinforcement Learning** from CS 188 (Fall 2024). In this project, I implement value iteration, Q‑learning, and approximate Q‑learning agents for a variety of environments (Gridworld, Crawler, and Pacman).
 
@@ -14,4 +14,4 @@ In **Project 3**, you work on building agents that learn to act optimally in Mar
 
 ## Notes
 
-This is my personal solution for learning/educational purposes. It is based on the CS 188 Fall 2024 Project 3 specification
+This is my personal solution for learning/educational purposes (introduction to AI). It is based on the CS 188 Fall 2024 Project 3 specification.
